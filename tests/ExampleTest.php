@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Mightymango\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 

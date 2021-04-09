@@ -1,16 +1,16 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "mightymango/unit_conversions",
+    "description": "This is my package UnitConversions",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "mightymango",
+        "unit_conversions"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/mightymango/unit_conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "MightyMango",
+            "email": "simon@mightymango.ltd",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Mightymango\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Mightymango\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
