@@ -1,8 +1,7 @@
 # This is my package UnitConversions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mightymango/unit_conversions.svg?style=flat-square)](https://packagist.org/packages/mightymango/unit_conversions)
-![GitHub Tests Action Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/mightymango/unit_conversions/run-tests?label=tests)](https://github.com/mightymango/unit_conversions/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/mightymango/unit_conversions/run-tests?label=tests)](https://github.com/mightymango/unit_conversions/actions/workflows/run-tests.yml)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/mightymango/unit_conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/mightymango/unit_conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/mightymango/unit_conversions.svg?style=flat-square)](https://packagist.org/packages/mightymango/unit_conversions)
 
