@@ -2,8 +2,6 @@
 
 namespace Mightymango\UnitConversions;
 
-use JetBrains\PhpStorm\Pure;
-
 class Weight
 {
     private float $kilograms;
