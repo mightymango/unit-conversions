@@ -19,7 +19,7 @@ composer require mightymango/unit_conversions
 
 ```php
 $unit_conversions = new Mightymango\UnitConversions();
-echo $unit_conversions->echoPhrase('Hello, Mightymango!');
+echo $unit_conversions->echoPhrase('Hello, Simon!');
 ```
 
 ## Testing
@@ -42,7 +42,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [MightyMango](https://github.com/mightymango)
+- [Mightymango](https://github.com/mightymango)
 - [All Contributors](../../contributors)
 
 ## License
