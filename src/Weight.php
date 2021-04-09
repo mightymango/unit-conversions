@@ -2,10 +2,13 @@
 
 namespace Mightymango\UnitConversions;
 
+use JetBrains\PhpStorm\Pure;
+
 class Weight
 {
     private float $kilograms;
 
+    /** @noinspection PhpPureAttributeCanBeAddedInspection */
     public static function fromKilograms(float $kilograms): self
     {
         return new static($kilograms);
